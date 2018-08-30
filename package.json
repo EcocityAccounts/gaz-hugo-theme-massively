@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/curttimson/hugo-theme-massively.git"
+    "url": "git+https://github.com/EcocityAccounts/gaz-hugo-theme-massively.git"
   },
   "keywords": [
     "hugo",
@@ -17,11 +17,11 @@
     "html5up",
     "massively"
   ],
-  "author": "Curtis Timson",
+  "author": "Greg Willson",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/curttimson/hugo-theme-massively/issues"
+    "url": "https://github.com/EcocityAccounts/gaz-hugo-theme-massively/issues"
   },
-  "homepage": "https://github.com/curttimson/hugo-theme-massively#readme",
+  "homepage": "https://github.com/EcocityAccounts/gaz-hugo-theme-massively#readme",
   "devDependencies": {}
 }

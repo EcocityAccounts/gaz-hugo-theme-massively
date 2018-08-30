@@ -3,8 +3,12 @@ title = "Massively"
 baseURL = "https://gazslum.netlify.com/"
 theme = "."
 googleanalytics = "UA-113904582-3"
-disqusShortname = "hugo-massively"
+disqusShortname = "gazslum"
 
+
+[build]
+  base = "exampleSite"
+  
 # [params]
   # set below parameter to define a favicon
   # favicon = "favicon.ico"

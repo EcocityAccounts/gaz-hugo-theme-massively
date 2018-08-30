@@ -1,13 +1,13 @@
 languageCode = "en-us"
 title = "The Streets Art School"
 baseURL = "https://gazslum.netlify.com/"
-theme = "../.."
-googleanalytics = "UA-113904582-4"
-disqusShortname = "gaz-netlify-hugo"
+theme = "."
+googleanalytics = ""
+disqusShortname = "gazslum"
 
-# [params]
+ [params]
   # set below parameter to define a favicon
-  # favicon = "favicon.ico"
+  favicon = "favicon.ico"
 
 # Below parameters can be set to override default post settings
 # [params.posts]

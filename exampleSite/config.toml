@@ -1,9 +1,9 @@
 languageCode = "en-us"
-title = "Massively"
-baseURL = "http://localhost:1313/"
-theme = "../.."
-googleanalytics = "UA-113904582-3"
-disqusShortname = "hugo-massively"
+title = "Gaz Street Art"
+baseURL = "https://nifty-bartik-ad3653.netlify.com/"
+theme = "."
+googleanalytics = ""
+disqusShortname = "gazslum"
 
 # [params]
   # set below parameter to define a favicon
@@ -21,6 +21,6 @@ disqusShortname = "hugo-massively"
 [languages.es]
   languageName = "Español"
   title = "Escuela del Artes Calle - Versión Español"
-[languages.fr]
-  languageName = "Français"
-  title = "L'école d'art des rues - Version Française"
+# [languages.fr]
+#  languageName = "Français"
+#  title = "L'école d'art des rues - Version Française"
